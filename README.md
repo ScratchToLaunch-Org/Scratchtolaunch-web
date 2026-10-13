@@ -1,2 +1,0 @@
-# Scratchtolaunch-web
-Official website
